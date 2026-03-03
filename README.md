@@ -1,4 +1,4 @@
-# Cyclistic Bike-Share Analysis (12-Month Capstone)
+# Cyclistic Bike-Share Analysis
 
 ## Project Overview
 This project analyzes 12 months of Cyclistic bike-share data (over 5.5 million rows) to understand behavioral differences between casual riders and annual members, with the goal of identifying opportunities to convert casual users into members.
@@ -18,7 +18,7 @@ How do casual riders differ from annual members in usage patterns, and how can t
 - Weekend-focused promotions may increase member conversion
 
 ## Dashboard Preview
-![Dashboard](visuals/dashboard.png)
+![](visuals/dashboard.png)
 
 ## Data Preparation
 - Started with data cleaning and visualization on data for 1 month to prototype and test my approach, then scaled gradually to incorporate 12 months of cyclistic data.
